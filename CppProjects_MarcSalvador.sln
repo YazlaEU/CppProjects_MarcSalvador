@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TheWalkingDead", "TheWalkin
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DynArray", "DynArray\DynArray.vcxproj", "{0011D73B-FFF0-4458-88F9-FB24F0A8FE66}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Testing", "ProjectApunts\ProjectApunts.vcxproj", "{3BCEFFCE-5ECC-49B6-8C44-525EC0A696DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{0011D73B-FFF0-4458-88F9-FB24F0A8FE66}.Release|x64.Build.0 = Release|x64
 		{0011D73B-FFF0-4458-88F9-FB24F0A8FE66}.Release|x86.ActiveCfg = Release|Win32
 		{0011D73B-FFF0-4458-88F9-FB24F0A8FE66}.Release|x86.Build.0 = Release|Win32
+		{3BCEFFCE-5ECC-49B6-8C44-525EC0A696DE}.Debug|x64.ActiveCfg = Debug|x64
+		{3BCEFFCE-5ECC-49B6-8C44-525EC0A696DE}.Debug|x64.Build.0 = Debug|x64
+		{3BCEFFCE-5ECC-49B6-8C44-525EC0A696DE}.Debug|x86.ActiveCfg = Debug|Win32
+		{3BCEFFCE-5ECC-49B6-8C44-525EC0A696DE}.Debug|x86.Build.0 = Debug|Win32
+		{3BCEFFCE-5ECC-49B6-8C44-525EC0A696DE}.Release|x64.ActiveCfg = Release|x64
+		{3BCEFFCE-5ECC-49B6-8C44-525EC0A696DE}.Release|x64.Build.0 = Release|x64
+		{3BCEFFCE-5ECC-49B6-8C44-525EC0A696DE}.Release|x86.ActiveCfg = Release|Win32
+		{3BCEFFCE-5ECC-49B6-8C44-525EC0A696DE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
